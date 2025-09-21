@@ -1,4 +1,4 @@
-transformers >= 4.42.4
+transformers >= 4.36.0
 torch >= 2.0.0
 bnunicodenormalizer >= 0.1.7
 sentencepiece == 0.2.0
